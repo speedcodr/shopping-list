@@ -5,3 +5,8 @@
 - Orange
 - Mango
 - Pineapple
+
+## Mobiles
+- Samsung s9
+- Iphone X
+- Iphone XS
